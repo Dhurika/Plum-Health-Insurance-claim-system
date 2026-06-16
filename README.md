@@ -186,17 +186,6 @@ The system processes the claim and returns a decision with full audit trace.
 
 ---
 
-## Running the Eval Report
-
-To run all 12 test cases:
-
-```bash
-cd backend
-python ../eval/run_eval.py
-```
-
-Results are printed to console and saved to `docs/eval_report.md`.
-
 ---
 
 ## API Endpoints
